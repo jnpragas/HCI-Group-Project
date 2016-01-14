@@ -5,5 +5,5 @@ The Cougar Advisor application basically helps students and instructors manage t
 
 I worked on the web application which was created in Visual Studio 2013 using C# and ASP.NET.
 
-NOTE: Only the web application code is included since that was the portion I worked on. The project won't run because I don't have access to the database anymore but you can still review the webforms I created in the implemention folder.
+NOTE: Only the web application code is included since that was the portion I worked on. The project won't run because I don't have access to the database anymore but you can still review the webforms I created in the implemention folder and you can read the implementation documentation to see screenshots of the application.
 
